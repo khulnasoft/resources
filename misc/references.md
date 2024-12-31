@@ -34,7 +34,7 @@ Learn & practice GCP Hacking: <img src="/.gitbook/assets/grte.png" alt="" data-s
 
 {% embed url="https://www.thehacker.recipes/" %}
 
-{% embed url="https://github.com/swisskyrepo/PayloadsAllTheThings" %}
+{% embed url="https://github.com/khulnasoft/Resources" %}
 
 {% embed url="https://gtfobins.github.io/" %}
 
