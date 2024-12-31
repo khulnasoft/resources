@@ -411,7 +411,7 @@ curl -X POST http://localhost:8080/graphql\?embedded_submission_form_uuid\=1%27%
 * [GraphQL cheatsheet - devhints.io - November 7, 2018](https://devhints.io/graphql)
 * [GraphQL Introspection - GraphQL - August 21, 2024](https://graphql.org/learn/introspection/)
 * [GraphQL NoSQL Injection Through JSON Types - Pete Corey - June 12, 2017](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/)
-* [HIP19 Writeup - Meet Your Doctor 1,2,3 - Swissky - June 22, 2019](https://khulnasoft.github.io/HIP19-MeetYourDoctor/)
+* [HIP19 Writeup - Meet Your Doctor 1,2,3 - Swissky - June 22, 2019](https://resources.khulnasoft.com/HIP19-MeetYourDoctor/)
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB - Leonardo Maldonado - 5 November 2018](https://www.freecodecamp.org/news/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474/)
 * [Introduction to GraphQL - GraphQL - November 1, 2024](https://graphql.org/learn/)
 * [Introspection query leaks sensitive graphql system information - @Zuriel - November 18, 2017](https://hackerone.com/reports/291531)
