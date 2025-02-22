@@ -1,0 +1,45 @@
+{
+	"compilerOptions": {
+		// Project Structure
+		"rootDirs": [".", ".next-types"],
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./*"]
+		},
+
+		// Module Settings
+		"target": "esnext",
+		"module": "esnext",
+		"moduleResolution": "bundler",
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+
+		// Compilation Behavior
+		"noEmit": true,
+		"incremental": true,
+		"isolatedModules": true,
+
+		// Type Checking
+		"strict": true,
+		"skipLibCheck": true,
+
+		// JavaScript Support
+		"allowJs": true,
+
+		// React Support
+		"jsx": "preserve",
+
+		// Libraries and Types
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"types": ["bun-types"],
+
+		// Plugins
+		"plugins": [
+			{
+				"name": "next"
+			}
+		]
+	},
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "**/*.(mts|ts)"],
+	"exclude": ["node_modules"]
+}
